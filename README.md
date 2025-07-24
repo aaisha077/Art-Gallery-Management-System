@@ -53,3 +53,21 @@ PHP
 MySQL
 HTML, CSS, Bootstrap
 phpMyAdmin
+
+
+## 📸 Snapshots
+
+### 🎨 ER Diagram (Version 2)
+![ER Diagram](snapshots/Er2.png)
+
+### 🧱 Database Schema
+![Database Schema](snapshots/schema.png)
+
+### 🏠 Home Page
+![Home Page](snapshots/home.png)
+
+### 🔐 Admin Login Page
+![Admin Login](snapshots/admin.png)
+
+### 📊 Admin Dashboard
+![Dashboard](snapshots/dashboard.png)
