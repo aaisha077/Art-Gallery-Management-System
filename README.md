@@ -58,7 +58,7 @@ phpMyAdmin
 ## 📸 Snapshots
 
 ### 🎨 ER Diagram (Version 2)
-![ER Diagram](snapshots/Er2.png)
+![ER Diagram](snapshots/er2.png)
 
 ### 🧱 Database Schema
 ![Database Schema](snapshots/schema.png)
