@@ -57,17 +57,17 @@ phpMyAdmin
 
 ## 📸 Snapshots
 
-### 🎨 ER Diagram (Version 2)
+### -> ER Diagram (Version 2)
 ![ER Diagram](snapshots/er2.png)
 
-### 🧱 Database Schema
+### -> Database Schema
 ![Database Schema](snapshots/schema.png)
 
-### 🏠 Home Page
+### -> Home Page
 ![Home Page](snapshots/home.png)
 
-### 🔐 Admin Login Page
+### -> Admin Login Page
 ![Admin Login](snapshots/admin.png)
 
-### 📊 Admin Dashboard
+### -> Admin Dashboard
 ![Dashboard](snapshots/dashboard.png)
