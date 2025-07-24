@@ -11,12 +11,12 @@ How to run the Art Gallery Management System (agms) Project :
   git clone https://github.com/aaisha077/Art-Gallery-Management-System.git
 
 2. Copy Project Folder
-Copy the agms folder to your web server's root directory:
+ Copy the agms folder to your web server's root directory:
 
-For MAMP: /Applications/MAMP/htdocs (for macOS)      
-For XAMPP: C:/xampp/htdocs/        
-For WAMP: C:/wamp/www/        
-For LAMP: /var/www/html/         
+ For MAMP: /Applications/MAMP/htdocs (for macOS)      
+ For XAMPP: C:/xampp/htdocs/        
+ For WAMP: C:/wamp/www/        
+ For LAMP: /var/www/html/         
 
 
 3. Start Apache and MySQL
